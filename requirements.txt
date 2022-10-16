@@ -1,4 +1,4 @@
-Program==1.4.16
+Pyrogram==1.4.16
 TgCrypto
 pyromod
 python-dotenv
