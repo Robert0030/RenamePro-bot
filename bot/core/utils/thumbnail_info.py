@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @Hackermanker
 
 from hachoir.parser import createParser
 from hachoir.metadata import extractMetadata
