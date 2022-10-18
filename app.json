@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/Hackermanker/RenamePro-Bot",
     "Telegram": "https://t.me/Oriksonic",
-    "success_url": "https://t.me/AH_RenameBot",
+    "success_url": "https://t.me/RenamerPro_bot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org"
