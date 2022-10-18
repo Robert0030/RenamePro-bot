@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @Hackermanker
 
 from dotenv import load_dotenv
 import bot.client
