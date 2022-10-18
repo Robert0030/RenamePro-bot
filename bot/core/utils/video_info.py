@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @Hackermanker
 
 import json
 import asyncio
