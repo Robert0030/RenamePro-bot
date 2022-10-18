@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @Hackermanker
 
 import datetime
 import motor.motor_asyncio
@@ -72,4 +72,4 @@ class Database:
         return user or None
 
 
-db = Database(Config.MONGODB_URI, "Rename-Bot")
+db = Database(Config.MONGODB_URI, "RenamePro-bot")
