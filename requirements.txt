@@ -9,3 +9,5 @@ hachoir
 mutagen
 psutil
 aiofiles
+flask
+gunicorn
